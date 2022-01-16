@@ -2,9 +2,9 @@
 
 Simple Windows App Uninstaller Console App work with "AppDisplayName" > "UninstallString" data.
 
-#### Branches
-* main > .Net Core version (.Net 6)
-* mainNetFramework > .Net Framework version (.Net Framework 4.8)
+#### Projects
+* AppUnistaller > .Net Core version (.Net 6)
+* AppUnistallerNetFramework > .Net Framework version (.Net Framework 4.8)
 
 #### Usage
 * Must be run as "Run as Administrator"
