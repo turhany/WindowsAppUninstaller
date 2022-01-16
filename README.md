@@ -1,6 +1,6 @@
 # WindowsAppUninstaller
 
-Simple Windows App Uninstall Console App with "UninstallString" data.
+Simple Windows App Uninstaller Console App work with "AppDisplayName" > "UninstallString" data.
 
 #### Branches
 * Master > .Net Core version (.Net 6)
