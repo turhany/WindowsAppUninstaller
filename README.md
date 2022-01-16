@@ -11,3 +11,4 @@ Simple Windows App Uninstaller Console App work with "AppDisplayName" > "Uninsta
 * Un install app configuration
   * For .Net Core in "config.json" > "AppDisplayName"
   * For .Net Framework in "App.json" > "AppDisplayName"
+* All flow is logged
